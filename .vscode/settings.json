@@ -1,0 +1,20 @@
+{
+    "files.associations": {
+        "string": "cpp",
+        "bitset": "cpp",
+        "iostream": "cpp",
+        "fstream": "cpp",
+        "iosfwd": "cpp",
+        "sstream": "cpp",
+        "ios": "cpp",
+        "__hash_table": "cpp",
+        "array": "cpp",
+        "charconv": "cpp",
+        "type_traits": "cpp",
+        "limits": "cpp",
+        "ratio": "cpp",
+        "tuple": "cpp",
+        "variant": "cpp"
+    },
+    "C_Cpp.default.compilerPath": "/usr/bin/g++"
+}
